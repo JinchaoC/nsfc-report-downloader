@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+out/
+*.spec
+.venv/
+venv/
+env/
+
+# 运行产物
+*.pdf
+imgs/
+test_imgs/
+*_images/
+_pkgs/
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 构建日志
+*.log
+
+# 构建日志
+*.log
